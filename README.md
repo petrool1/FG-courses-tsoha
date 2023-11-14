@@ -1,4 +1,4 @@
-# Frisbeegolf Helsingissä
+# Frisbeegolfradat Helsingissä
 
 Sovelluksessa näkyy Helsingin alueen frisbeegolradat, joista voi etsiä tietoa ja lukea arvioita. 
 Jokainen käyttäjä on peruskäyttäjä tai ylläpitäjä.
